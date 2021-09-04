@@ -1,0 +1,75 @@
+{
+  "criteria": "Iphone 11",
+  "products": [
+    {
+      "id": 1,
+      "title": "IPhone 11 Spingen Mavi Pro Max Kılıf",
+      "category": {
+        "id": 1,
+        "title": "Telefon",
+        "priority": 4
+      },
+      "isActive:": true
+    },
+    {
+      "id": 2,
+      "title": "IPhone 11 128 GB Cep telefonu",
+      "category": {
+        "id": 1,
+        "title": "Telefon",
+        "priority": 4
+      },
+      "isActive:": true
+    },
+    {
+      "id": 3,
+      "title": "IPhone 11 Pro Max Silikon Siyah Kılıf",
+      "category": {
+        "id": 2,
+        "title": "Aksesuar",
+        "priority": 1
+      },
+      "isActive:": true
+    },
+    {
+      "id": 4,
+      "title": "IPhone 8 Cep telefonu",
+      "category": {
+        "id": 1,
+        "title": "Telefon",
+        "priority": 4
+      },
+      "isActive:": true
+    },
+    {
+      "id": 5,
+      "title": "Samsung Note 11 Cep telefonu",
+      "category": {
+        "id": 1,
+        "title": "Telefon",
+        "priority": 4
+      },
+      "isActive:": true
+    },
+    {
+      "id": 6,
+      "title": "IPhone 8 Silikon Siyah Kılıf",
+      "category": {
+        "id": 2,
+        "title": "Aksesuar",
+        "priority": 1
+      },
+      "isActive:": true
+    },
+    {
+      "id": 7,
+      "title": "Dummy data for checking not listing",
+      "category": {
+        "id": 3,
+        "title": "No category",
+        "priority": 0
+      },
+      "isActive:": true
+    }
+  ]
+}
